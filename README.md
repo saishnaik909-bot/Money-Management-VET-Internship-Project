@@ -1,4 +1,4 @@
-# Solo Money Management (SMM)
+# Money Management System
 
 A simple personal income/expense tracker for the Full Stack Development syllabus.
 **React + Redux + React Router → Node + Express → Sequelize → MySQL.** No login, no AI APIs.
