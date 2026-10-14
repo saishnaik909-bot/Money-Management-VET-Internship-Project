@@ -7,7 +7,7 @@ Setup: see `SETUP.md`. Concepts and viva answers: see `EXPLANATION.md`.
 
 ## Folder structure
 ```
-smm/
+Money Management System/
 ├── backend/
 │   ├── config/        database.js (Sequelize), config.js (for migrations)
 │   ├── controllers/   transaction, summary, logbook, chatbot
@@ -61,7 +61,7 @@ POST body example:
 Errors return `{ "message": "..." }` with status 400 (validation), 404 (not found) or 500.
 
 ## Syllabus mapping
-| Week | Topic | Where in SMM |
+| Week | Topic | Where in Money Management System |
 |---|---|---|
 | 1 | Node, package.json, Express server | `backend/package.json`, `server.js` |
 | 2 | Modules, dependencies | routes / controllers / models / config split with `require` |
